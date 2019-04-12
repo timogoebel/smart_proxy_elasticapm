@@ -1,0 +1,5 @@
+---
+:enabled: true
+:service_name: 'foreman-proxy',
+:server_url: 'https://elastic-apm.example.com'
+:secret_token: 'secret-token'
